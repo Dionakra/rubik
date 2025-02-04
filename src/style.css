@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+canvas {
+  display: block;
+}
+
+img {
+  margin-top: 4px;
+  height: 24px;
+}
